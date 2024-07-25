@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "kr-Korea"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Nayeon Kim's NLP"
+title                    : "Nayeon Kim"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Nayeon Kim (Call me Nay!)"
-description              : "Nay's blog"
+subtitle                 :  "NLP"
+name                     : "Nayeon Kim"
+description              : "Awesome Nay's Blog"
 url                      : "https://naykim92.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -116,16 +116,10 @@ author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "B.A. in Korean Language and Literature, Kyungpook National University (2010-2015)
-Gained a comprehensive understanding of the Korean language and literature.
-
-Ph.D. Student in Computer Science and Engineering, Korea University (2021-Present)
-Engaged in cutting-edge research and development in Natural Language Processing, focusing on linguistics and psychology based approaches in the field."
+Ph.D. Student in Computer Science and Engineering, Korea University (2021-Present)"
   location         : "Seoul"
-  email            : nlpaiku@gmail.com
+  email            : lilian1208@korea.ac.kr
   links:
-    - label: "School Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "lilian1208@korea.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
