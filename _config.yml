@@ -113,10 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "B.A. in Korean Language and Literature, Kyungpook National University (2010-2015)
-Ph.D. Student in Computer Science and Engineering, Korea University (2021-Present)"
+  name             : "Nayeon Kim"
+  avatar           : # path of avatar image, e.g. "/assets/images/git.jpg"
+  bio              : "B.A. in Korean Language and Literature, Kyungpook National University (2010-2015)", "Ph.D. Student in Computer Science and Engineering, Korea University (2021-Present)"
   location         : "Seoul"
   email            : lilian1208@korea.ac.kr
   links:
