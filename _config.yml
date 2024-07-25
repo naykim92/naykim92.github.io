@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Nayeon Kim"
 title_separator          : "-"
 subtitle                 :  "NLP"
-name                     : "Nayeon Kim"
+name                     : "Nay"
 description              : "Awesome Nay's Blog"
 url                      : "https://naykim92.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
