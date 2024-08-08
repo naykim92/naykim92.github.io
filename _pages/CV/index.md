@@ -50,7 +50,7 @@ With this belief, I work on artificial intelligence that can understand human so
 ## LANGUAGES
 - **KOREAN**: Native
 - **ENGLISH**: Intermediate
-- **FRENCH**: A2
+- **FRENCH**: A2 
 
 ---
 
