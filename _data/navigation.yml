@@ -1,9 +1,7 @@
-# main links
 main:
   - title: "Home"
     url: "/"
   - title: "CV"
-    url:"/cv/"
-  - title:"Paper Review"
-    url:"categories/paper-review/"
-    
+    url: "/cv/"
+  - title: "Paper Review"
+    url: "/categories/paper-review/"
