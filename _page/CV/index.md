@@ -5,7 +5,7 @@ title: "CV"
 permalink: /cv/
 ---
 
-![Nayeon Kim](assets/images/nayeonkim_profile.jpg) <!-- 사진 파일 경로를 넣으세요 -->
+![Nayeon Kim](assets/images/nayeonKim_profile.jpg) <!-- 사진 파일 경로를 넣으세요 -->
 
 ## NAYEON KIM
 ### Computational Linguistics, Commonsene Reasoning, Natural Language Processing
